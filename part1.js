@@ -15,3 +15,5 @@ for (let i = 1; i < newCSVFile.length; i++) {
 }
 
 console.log(arrCSVStorage);
+
+// COPYRIGHTS @Ray2024: PLEASE DO NOT COPY MY CODE!!!!!!!!!!!!!!!!!!!!!!!!!
